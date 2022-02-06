@@ -1,0 +1,8 @@
+body{
+     background-color: linear-gradient (beige 0%,gray 50%,black 80%);
+}
+.center{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
